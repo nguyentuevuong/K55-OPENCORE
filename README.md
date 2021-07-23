@@ -25,3 +25,4 @@ Currently all most of the functions are fully functional, however, there are sti
 **Application issue:**
 - AppStore sometime (may be) crash.
 - iMessage: not check.
+- Touchpad: crash if use two (or more) finger & force touch on same time
